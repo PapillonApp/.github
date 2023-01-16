@@ -6,10 +6,24 @@
   "commit": false,
   "contributorsSortAlphabetically": true,
   "contributorsPerLine": 7,
-  "projectName": "Papillon",
+  "projectName": ".github",
   "projectOwner": "PapillonApp",
   "repoType": "github",
   "repoHost": "https://github.com",
   "skipCi": true,
-  "contributors": []
+  "contributors": [
+    {
+      "login": "ecnivtwelve",
+      "name": "Vince Linise",
+      "avatar_url": "https://avatars.githubusercontent.com/u/32978709?v=4",
+      "profile": "https://www.vincelinise.com",
+      "contributions": [
+        "code",
+        "design",
+        "ideas",
+        "projectManagement"
+      ]
+    }
+  ],
+  "commitConvention": "angular"
 }
