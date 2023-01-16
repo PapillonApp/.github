@@ -25,6 +25,18 @@
       ]
     },
     {
+      "login": "lucas-luchack",
+      "name": "Luc'HACK",
+      "avatar_url": "https://avatars.githubusercontent.com/u/39491773?v=4",
+      "profile": "https://luchack.valbion.com",
+      "contributions": [
+        "code",
+        "infra",
+        "maintenance",
+        "ideas"
+      ],
+    },
+    {
       "login": "Rexxt",
       "name": "Mizu",
       "avatar_url": "https://avatars.githubusercontent.com/u/40831463?v=4",
