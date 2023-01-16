@@ -23,6 +23,16 @@
         "ideas",
         "projectManagement"
       ]
+    },
+    {
+      "login": "andronedev",
+      "name": "andronedev",
+      "avatar_url": "https://avatars.githubusercontent.com/u/31452517?v=4",
+      "profile": "https://androne.dev",
+      "contributions": [
+        "plugin",
+        "code"
+      ]
     }
   ],
   "commitConvention": "angular"
