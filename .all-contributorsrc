@@ -1,0 +1,15 @@
+{
+  "files": [
+    "profile/README.md"
+  ],
+  "imageSize": 100,
+  "commit": false,
+  "contributorsSortAlphabetically": true,
+  "contributorsPerLine": 7,
+  "projectName": "Papillon",
+  "projectOwner": "PapillonApp",
+  "repoType": "github",
+  "repoHost": "https://github.com",
+  "skipCi": true,
+  "contributors": []
+}
