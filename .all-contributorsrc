@@ -23,6 +23,15 @@
         "ideas",
         "projectManagement"
       ]
+    },
+    {
+      "login": "Rexxt",
+      "name": "Mizu",
+      "avatar_url": "https://avatars.githubusercontent.com/u/40831463?v=4",
+      "profile": "https://mizuofficial.carrd.co/",
+      "contributions": [
+        "infra"
+      ]
     }
   ],
   "commitConvention": "angular"
