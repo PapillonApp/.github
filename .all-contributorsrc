@@ -11,6 +11,13 @@
   "repoType": "github",
   "repoHost": "https://github.com",
   "skipCi": true,
+  "types": {
+    "custom": {
+      "symbol": "🌟",
+      "description": "Creator",
+      "link": "[<%= symbol %>](<%= url %> \"<%= description %>\"),"
+    }
+  },
   "contributors": [
     {
       "login": "ecnivtwelve",
