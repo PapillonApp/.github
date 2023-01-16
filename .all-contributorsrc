@@ -25,6 +25,16 @@
       ]
     },
     {
+      "login": "tryon-dev",
+      "name": "Tryon",
+      "avatar_url": "https://avatars.githubusercontent.com/u/68423470?v=4",
+      "profile": "https://github.com/tryon-dev",
+      "contributions": [
+        "infra",
+        "bug"
+      ]
+    },
+    {
       "login": "andronedev",
       "name": "andronedev",
       "avatar_url": "https://avatars.githubusercontent.com/u/31452517?v=4",
