@@ -33,6 +33,37 @@
         "infra",
         "bug"
       ]
+    },
+    {
+      "login": "andronedev",
+      "name": "andronedev",
+      "avatar_url": "https://avatars.githubusercontent.com/u/31452517?v=4",
+      "profile": "https://androne.dev",
+      "contributions": [
+        "plugin",
+        "code"
+      ]
+    },
+    {
+      "login": "lucas-luchack",
+      "name": "Luc'HACK",
+      "avatar_url": "https://avatars.githubusercontent.com/u/39491773?v=4",
+      "profile": "https://luchack.valbion.com",
+      "contributions": [
+        "code",
+        "infra",
+        "maintenance",
+        "ideas"
+      ],
+    },
+    {
+      "login": "Rexxt",
+      "name": "Mizu",
+      "avatar_url": "https://avatars.githubusercontent.com/u/40831463?v=4",
+      "profile": "https://mizuofficial.carrd.co/",
+      "contributions": [
+        "infra"
+      ]
     }
   ],
   "commitConvention": "angular"
