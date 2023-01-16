@@ -12,7 +12,7 @@
   "repoHost": "https://github.com",
   "skipCi": true,
   "types": {
-    "custom": {
+    "creator": {
       "symbol": "🌟",
       "description": "Creator",
       "link": "[<%= symbol %>](<%= url %> \"<%= description %>\"),"
