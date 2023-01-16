@@ -10,3 +10,12 @@
     <td align="center"><a href="https://github.com/andronedev"><img src="https://avatars3.githubusercontent.com/u/31452517?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Andronedev</b></sub></a><br /></td>
   </tr>
 </table>
+
+<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
+<!-- prettier-ignore-start -->
+<!-- markdownlint-disable -->
+
+<!-- markdownlint-restore -->
+<!-- prettier-ignore-end -->
+
+<!-- ALL-CONTRIBUTORS-LIST:END -->
