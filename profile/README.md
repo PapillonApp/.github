@@ -1,3 +1,5 @@
+![image](https://github.com/PapillonApp/.github/assets/32978709/06392685-9f33-4e1a-840e-5fbddc06746e)
+
 ### Équipe Papillon
 
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
